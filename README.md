@@ -1,2 +1,2 @@
-# Udemy-Todoey-iOS-Swift
-Udemy Todoey iOS Swift
+# Todoey
+ToDo List Swift App
